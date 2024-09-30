@@ -24,7 +24,11 @@ stored.
 
 
 ## PROGRAM - RARP
+![2C1SERVER](https://github.com/user-attachments/assets/409efd6e-8630-42dc-ba0b-8a8ecdcf079d)
+
 ## OUTPUT -RARP
+![2C1CLIENT](https://github.com/user-attachments/assets/8a05bd76-b885-4bdd-ad05-842bef925f09)
+
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
